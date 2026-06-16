@@ -39,7 +39,7 @@ Make sure all these files are in the **same folder**:
 3. Open **DOSBox** shortcut
 4. Mount and navigate to project folder in DOSBox:
 ```
-mount c .
+mount c <path to your project folder>
 c:
 ```
 5. Assemble the code:
@@ -59,5 +59,3 @@ snake.com
 | R | Restart |
 | E | Exit |
 
-## Contributors
-- [Abdullah Qasim](https://github.com/abdullah-qasim-dev)
