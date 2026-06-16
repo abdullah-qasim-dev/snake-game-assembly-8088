@@ -22,6 +22,8 @@ A classic Snake Game implemented in x86 Assembly Language for the 8088 platform,
 Install DOSBox and setup NASM & AFD using the guide below:
 👉 [Setup Guide - AFD, NASM & DOSBox](https://wetolearn.blogspot.com/2013/09/setting-up-afd-nasm-and-dosbox-for-8086.html)
 
+> **Note:** `afd.exe` and `nasm.exe` are already provided in this repository. No need to download them separately! However, you will need to install **DOSBox** separately. Download it from the setup guide above.
+
 ### Folder Structure
 Make sure all these files are in the **same folder**:
 
